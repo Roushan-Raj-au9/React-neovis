@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#viz {
+  width: 900px;
+  height: 700px;
+  border: 1px solid lightgray;
+  font: 22pt arial;
+}
